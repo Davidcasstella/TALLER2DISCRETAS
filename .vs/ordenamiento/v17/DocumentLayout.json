@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|solutionrelative:ordenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|solutionrelative:ordenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|solutionrelative:ordenamiento\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|c:\\users\\david\\desktop\\matematicas discretastodo\\taller2discretas\\taller2discretas\\ordenamiento\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|solutionrelative:ordenamiento\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082338AE-684B-4A14-889F-6B7C2721E3A5}|ordenamiento\\ordenamiento.csproj|solutionrelative:ordenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,32 +70,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ordenamiento\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.Designer.cs",
-              "RelativeToolTip": "ordenamiento\\Form1.Designer.cs",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAswPkBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T04:39:29.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.cs",
-              "RelativeDocumentMoniker": "ordenamiento\\Form1.cs",
-              "ToolTip": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.cs",
-              "RelativeToolTip": "ordenamiento\\Form1.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAswKAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:31:26.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.cs",
@@ -105,6 +79,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T15:21:34.115Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ordenamiento\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.Designer.cs",
+              "RelativeToolTip": "ordenamiento\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswPMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:39:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.cs",
+              "RelativeDocumentMoniker": "ordenamiento\\Form1.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Matematicas discretasTodo\\TALLER2DISCRETAS\\TALLER2DISCRETAS\\ordenamiento\\Form1.cs",
+              "RelativeToolTip": "ordenamiento\\Form1.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAswAIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:31:26.737Z",
+              "EditorCaption": ""
             }
           ]
         }
